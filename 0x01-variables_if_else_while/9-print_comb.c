@@ -18,8 +18,8 @@ int main(void)
 		if (c == 9)
 			continue;
 
-		putchar(",");
-		putchar("")
+		putchar(',');
+		putchar(" ")
 	}
 	c++;
 	return (0);
