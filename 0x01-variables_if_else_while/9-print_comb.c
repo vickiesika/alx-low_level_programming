@@ -13,8 +13,13 @@ int main(void)
 
 	while (c < 10)
 	{
-		putchar(',');
-		putchar(',');
+		putchar('0' + c);
+
+		if (c == 9)
+			continue;
+
+		putchar(",");
+		putchar("")
 	}
 	c++;
 	return (0);
