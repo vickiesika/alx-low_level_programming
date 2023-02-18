@@ -8,11 +8,11 @@
 
 int main(void)
 {
-	int c = 'o';
+	int c = '0';
 
 	while (c < 10)
 	{
-		putchar(48 + c)(c);
+		putchar(c + '0');
 		c++;
 	}
 	putchar('\n');
