@@ -18,8 +18,8 @@ int main(void)
 		{
 			putchar(',');
 			putchar(' ');
-			c++;
 		}
+		c++;
 	}
 	return (0);
 }
