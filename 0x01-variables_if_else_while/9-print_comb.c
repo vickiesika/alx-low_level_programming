@@ -13,11 +13,7 @@ int main(void)
 
 	while (c < 10)
 	{
-		putchar('0' + c);
-
-		if (c == 9)
-			continue;
-
+		putchar('0' + c)
 		putchar(',');
 		putchar(' ');
 		c++;
