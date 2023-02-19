@@ -8,7 +8,11 @@
 
 int main(void)
 {
-	int a = 0, b = 8, a1 = 1, b2 = 9, tmp = 1
+	int a = 0;
+	int b = 8;
+	int a1 = 1;
+	int b1 = 9;
+	int tmp = 1;
 
 	while (a <= b)
 	{
