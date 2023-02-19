@@ -18,7 +18,7 @@ int main(void)
 	{
 		a1 = tmp;
 
-		while (a1 <= b2)
+		while (a1 <= b1)
 		{
 			putchar(a + '0');
 			putchar(a1 + '0');
