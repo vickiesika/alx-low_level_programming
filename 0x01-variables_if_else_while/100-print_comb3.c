@@ -33,5 +33,6 @@ int main(void)
 		tmp++;
 		a++;
 	}
+	putchar('\n');
 	return (0);
 }
