@@ -19,7 +19,6 @@ int main(void)
 			putchar(',');
 			putchar(' ');
 		}
-		c++;
 	}
 	return (0);
 }
